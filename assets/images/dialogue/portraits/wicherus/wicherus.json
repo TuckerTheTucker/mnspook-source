@@ -1,0 +1,9 @@
+{
+    "name": "wicherus",
+    "expressions": {
+        "normal": "witch talking"
+    },
+    "position": "left",
+
+    "sounds": ["witch_1", "witch_2", "witch_3", "witch_4"]
+}

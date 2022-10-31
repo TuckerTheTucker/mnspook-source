@@ -1,0 +1,36 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "No fair! You must have cheated!"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "beepi bap"
+        },
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "I know you cheated! Don’t lie to me!"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "Bappy bop bep"
+        },
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "Let me have one more chance! I’ll\nbeat you this time!"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "bep"
+        }
+    ]
+}

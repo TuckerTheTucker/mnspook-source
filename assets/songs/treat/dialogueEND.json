@@ -1,0 +1,24 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "FFFFFF..."
+        },
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "Fine, you win!"
+        },
+        {
+            "text": "Cmon Todd, lets bully another kid into\ngiving us candy!"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "beep :)"
+        }
+    ]
+}

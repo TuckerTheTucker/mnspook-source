@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wicherus.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="witch down0000" x="15" y="15" width="375" height="616" frameX="-6" frameY="-14" frameWidth="381" frameHeight="630"/>
+	<SubTexture name="witch down0001" x="15" y="15" width="375" height="616" frameX="-6" frameY="-14" frameWidth="381" frameHeight="630"/>
+	<SubTexture name="witch down0002" x="405" y="15" width="375" height="628" frameX="0" frameY="-2" frameWidth="381" frameHeight="630"/>
+	<SubTexture name="witch down0003" x="405" y="15" width="375" height="628" frameX="0" frameY="-2" frameWidth="381" frameHeight="630"/>
+	<SubTexture name="witch down0004" x="795" y="15" width="374" height="630" frameX="0" frameY="0" frameWidth="381" frameHeight="630"/>
+	<SubTexture name="witch down0005" x="795" y="15" width="374" height="630" frameX="0" frameY="0" frameWidth="381" frameHeight="630"/>
+	<SubTexture name="witch idle0000" x="1184" y="15" width="392" height="660" frameX="0" frameY="-8" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0001" x="1184" y="15" width="392" height="660" frameX="0" frameY="-8" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0002" x="1591" y="15" width="405" height="668"/>
+	<SubTexture name="witch idle0003" x="1591" y="15" width="405" height="668"/>
+	<SubTexture name="witch idle0004" x="15" y="698" width="392" height="664" frameX="0" frameY="-4" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0005" x="15" y="698" width="392" height="664" frameX="0" frameY="-4" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0006" x="422" y="698" width="382" height="659" frameX="0" frameY="-9" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0007" x="422" y="698" width="382" height="659" frameX="0" frameY="-9" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0008" x="819" y="698" width="378" height="657" frameX="0" frameY="-11" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0009" x="819" y="698" width="378" height="657" frameX="0" frameY="-11" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0010" x="819" y="698" width="378" height="657" frameX="0" frameY="-11" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0011" x="819" y="698" width="378" height="657" frameX="0" frameY="-11" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0012" x="819" y="698" width="378" height="657" frameX="0" frameY="-11" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch idle0013" x="819" y="698" width="378" height="657" frameX="0" frameY="-11" frameWidth="405" frameHeight="668"/>
+	<SubTexture name="witch left0000" x="1212" y="698" width="384" height="663" frameX="0" frameY="0" frameWidth="386" frameHeight="663"/>
+	<SubTexture name="witch left0001" x="1212" y="698" width="384" height="663" frameX="0" frameY="0" frameWidth="386" frameHeight="663"/>
+	<SubTexture name="witch left0002" x="1611" y="698" width="375" height="659" frameX="-10" frameY="-4" frameWidth="386" frameHeight="663"/>
+	<SubTexture name="witch left0003" x="1611" y="698" width="375" height="659" frameX="-10" frameY="-4" frameWidth="386" frameHeight="663"/>
+	<SubTexture name="witch left0004" x="15" y="1377" width="375" height="659" frameX="-11" frameY="-4" frameWidth="386" frameHeight="663"/>
+	<SubTexture name="witch left0005" x="15" y="1377" width="375" height="659" frameX="-11" frameY="-4" frameWidth="386" frameHeight="663"/>
+	<SubTexture name="witch right0000" x="405" y="1377" width="493" height="630" frameX="-2" frameY="0" frameWidth="502" frameHeight="630"/>
+	<SubTexture name="witch right0001" x="405" y="1377" width="493" height="630" frameX="-2" frameY="0" frameWidth="502" frameHeight="630"/>
+	<SubTexture name="witch right0002" x="913" y="1377" width="501" height="630" frameX="-1" frameY="0" frameWidth="502" frameHeight="630"/>
+	<SubTexture name="witch right0003" x="913" y="1377" width="501" height="630" frameX="-1" frameY="0" frameWidth="502" frameHeight="630"/>
+	<SubTexture name="witch right0004" x="1429" y="1377" width="436" height="630" frameX="0" frameY="0" frameWidth="502" frameHeight="630"/>
+	<SubTexture name="witch right0005" x="1429" y="1377" width="436" height="630" frameX="0" frameY="0" frameWidth="502" frameHeight="630"/>
+	<SubTexture name="witch up0000" x="15" y="2051" width="377" height="653"/>
+	<SubTexture name="witch up0001" x="15" y="2051" width="377" height="653"/>
+	<SubTexture name="witch up0002" x="407" y="2051" width="365" height="643" frameX="-12" frameY="-10" frameWidth="377" frameHeight="653"/>
+	<SubTexture name="witch up0003" x="407" y="2051" width="365" height="643" frameX="-12" frameY="-10" frameWidth="377" frameHeight="653"/>
+	<SubTexture name="witch up0004" x="787" y="2051" width="363" height="640" frameX="-13" frameY="-13" frameWidth="377" frameHeight="653"/>
+	<SubTexture name="witch up0005" x="787" y="2051" width="363" height="640" frameX="-13" frameY="-13" frameWidth="377" frameHeight="653"/>
+</TextureAtlas>

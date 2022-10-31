@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgchar.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="front-bg0000" x="15" y="15" width="3337" height="1030" frameX="0" frameY="-29" frameWidth="3337" frameHeight="1059"/>
+	<SubTexture name="front-bg0001" x="15" y="15" width="3337" height="1030" frameX="0" frameY="-29" frameWidth="3337" frameHeight="1059"/>
+	<SubTexture name="front-bg0002" x="15" y="1060" width="3296" height="1020" frameX="-13" frameY="-14" frameWidth="3337" frameHeight="1059"/>
+	<SubTexture name="front-bg0003" x="15" y="1060" width="3296" height="1020" frameX="-13" frameY="-14" frameWidth="3337" frameHeight="1059"/>
+	<SubTexture name="front-bg0004" x="15" y="2095" width="3220" height="1008" frameX="-52" frameY="0" frameWidth="3337" frameHeight="1059"/>
+	<SubTexture name="front-bg0005" x="15" y="2095" width="3220" height="1008" frameX="-52" frameY="0" frameWidth="3337" frameHeight="1059"/>
+	<SubTexture name="mid-bg0000" x="15" y="3118" width="1531" height="534" frameX="0" frameY="-31" frameWidth="1531" frameHeight="566"/>
+	<SubTexture name="mid-bg0001" x="15" y="3118" width="1531" height="534" frameX="0" frameY="-31" frameWidth="1531" frameHeight="566"/>
+	<SubTexture name="mid-bg0002" x="1561" y="3118" width="1523" height="553" frameX="-3" frameY="-13" frameWidth="1531" frameHeight="566"/>
+	<SubTexture name="mid-bg0003" x="1561" y="3118" width="1523" height="553" frameX="-3" frameY="-13" frameWidth="1531" frameHeight="566"/>
+	<SubTexture name="mid-bg0004" x="15" y="3686" width="1509" height="565" frameX="-10" frameY="0" frameWidth="1531" frameHeight="566"/>
+	<SubTexture name="mid-bg0005" x="15" y="3686" width="1509" height="565" frameX="-10" frameY="0" frameWidth="1531" frameHeight="566"/>
+</TextureAtlas>

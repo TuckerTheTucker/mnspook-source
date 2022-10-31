@@ -1,0 +1,46 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "Hey! How’d you get all that Candy?"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "bep bop beep bepap"
+        },
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "What do you mean you won’t tell me how?\nJust tell me!"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "beep"
+        },
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "Y’know what? I’ll just take yours since\nI’m not doing so well!"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "bop"
+        },
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "A rap battle? Okay, winner gets all\nthe candy! Deal?"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "beppity boppity"
+        }
+    ]
+}

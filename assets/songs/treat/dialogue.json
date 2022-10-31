@@ -1,0 +1,36 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "Are you serious?!"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "Bop bop bap"
+        },
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "I should’ve won! This isn’t fair!"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "Bep bep bop bep bop"
+        },
+        {
+            "portrait": "wicherus",
+            "expression": "normal",
+            "text": "Let me have one more chance, I know I\nsaid it last time but I'll surprise you with\nthis!!"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "beppy bappy bip"
+        }
+    ]
+}

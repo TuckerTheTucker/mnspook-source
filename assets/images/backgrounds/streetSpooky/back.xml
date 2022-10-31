@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="back" x="15" y="2610" width="2640" height="850"/>
+	<SubTexture name="back-lightning0000" x="15" y="15" width="2640" height="850"/>
+	<SubTexture name="back-lightning0001" x="15" y="880" width="2640" height="850"/>
+	<SubTexture name="back-lightning0002" x="15" y="1745" width="2640" height="850"/>
+	<SubTexture name="back-lightning0003" x="15" y="2610" width="2640" height="850"/>
+	<SubTexture name="back-lightning0004" x="15" y="2610" width="2640" height="850"/>
+</TextureAtlas>

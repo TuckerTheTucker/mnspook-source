@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="space.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="space" x="15" y="4454" width="2700" height="1400" frameX="0" frameY="0" frameWidth="2700" frameHeight="1497"/>
+	<SubTexture name="space-lightning0000" x="15" y="15" width="2700" height="1497"/>
+	<SubTexture name="space-lightning0001" x="15" y="1527" width="2700" height="1400" frameX="0" frameY="-97" frameWidth="2700" frameHeight="1497"/>
+	<SubTexture name="space-lightning0002" x="15" y="2942" width="2700" height="1497"/>
+	<SubTexture name="space-lightning0003" x="15" y="4454" width="2700" height="1400" frameX="0" frameY="-97" frameWidth="2700" frameHeight="1497"/>
+	<SubTexture name="space-lightning0004" x="15" y="4454" width="2700" height="1400" frameX="0" frameY="-97" frameWidth="2700" frameHeight="1497"/>
+</TextureAtlas>

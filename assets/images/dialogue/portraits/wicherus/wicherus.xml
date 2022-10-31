@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wicherus.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="witch talking0000" x="15" y="15" width="385" height="621" frameX="-1" frameY="-15" frameWidth="386" frameHeight="636"/>
+	<SubTexture name="witch talking0001" x="15" y="15" width="385" height="621" frameX="-1" frameY="-15" frameWidth="386" frameHeight="636"/>
+	<SubTexture name="witch talking0002" x="15" y="651" width="385" height="636" frameX="-1" frameY="0" frameWidth="386" frameHeight="636"/>
+	<SubTexture name="witch talking0003" x="15" y="651" width="385" height="636" frameX="-1" frameY="0" frameWidth="386" frameHeight="636"/>
+	<SubTexture name="witch talking0004" x="15" y="1302" width="379" height="630" frameX="0" frameY="-6" frameWidth="386" frameHeight="636"/>
+	<SubTexture name="witch talking0005" x="15" y="1302" width="379" height="630" frameX="0" frameY="-6" frameWidth="386" frameHeight="636"/>
+</TextureAtlas>
